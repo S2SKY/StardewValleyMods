@@ -1,0 +1,99 @@
+  "Tool.MeatCleaver.TooYoung.Soft": "{{animalName}} 은/는 고기와 바꾸기에 너무 어립니다.",
+117
+  "Tool.MeatCleaver.Letter.Soft": "친애하는 @,^^    우리는 당신이 자랑스러운 동물 농장의 주인이란 걸 안다모. 축하한다모!^    여기 우리들의 세계에서, 우리들은 동물들을 매우매우 사랑한다모, 하지만 여기서는 동물의 수를 늘리는 것이 불가능하다모. 그렇다모, 우리는 늘 다른 세계에서 더 많은 동물들을 데려오길 기대해왔다모.^    우리는 당신 인간들이 고기를 좋아한다는 것을 안다모, 그리고 언젠가 당신이 고기를 위해 동물들을 죽이게 될 날이 올 것이란 것도 알고있다모... 그러지 말아모!^^    여기 거래를 제안한다모. 다행히도, 우리 세계에서는 고기가 나무에서 열리고 있다모. 그러니 우리에게 당신의 동물들을 보내달라모, 그러면 우리가 그걸 고기로 바꿔주겠다모. 우리가 그 동물들을 정말로 잘 돌봐주겠다모.^    우리는 당신에게 요술 지팡이를 보낸다모, 고기와 바꾸고자 하는 동물에게 그걸 사용하기만 하면 되는 거다모. 사랑을 많이 받은 동물이라면, 그만큼 더 많은 고기를 우리가 보내주겠다모. 어느 동물을 우리에게 보내주냐에 따라 몇가지 물품도 추가로 얹어주겠다모.^    -이차원의 친구들",
+118
+  
+119
+  "Tool.InseminationSyringe.Name": "인공수정 주사기",
+120
+  "Tool.InseminationSyringe.Description": "이것을 사용해 농장 동물들을 인공수정 시키세요.",
+121
+  "Tool.InseminationSyringe.TooYoung": "{{animalName}} 에게 인공수정을 시키기에는 너무 어립니다.",
+122
+  "Tool.InseminationSyringe.AlreadyPregnant": "{{animalName}} 은/는 임신중이라 인공수정이 불가능합니다. 앞으로  {{numberOfDays}} 일 후 새끼가 태어날 것입니다.",
+123
+  "Tool.InseminationSyringe.ReadyForBirth": "{{animalName}} 은/는 임신중이며 곧 새끼를 낳을 것입니다.",
+124
+  "Tool.InseminationSyringe.BuildingLimit": "이 {{buildingType}} 에는 임신중인 동물을 위한 공간이 부족합니다.",
+125
+  "Tool.InseminationSyringe.Empty": "비어있는 주사기.",
+126
+  "Tool.InseminationSyringe.CorrectItem": "이 동물을 인공수정 시키려면 당신은 {{itemName}} 의 사용이 필요합니다.",
+127
+  "Tool.InseminationSyringe.FullBuilding": "{{animalName}} 은/는 어젯밤 새끼를 낳을 준비가 되었었지만, 그녀의 {{buildingType}} 이 꽉 차 있었습니다.",
+128
+  "Tool.InseminationSyringe.BirthTomorrow": "{{animalName}} 은/는 내일 새끼를 낳을 수 있습니다. 새끼를 위한 공간을 확보하는 걸 잊지마세요." ,
+129
+  "Tool.InseminationSyringe.BirthsTomorrow": "{{animalNames}} 은/는 내일 새끼를 낳을 수 있습니다. 새끼들을 위한 공간을 확보하는 걸 잊지마세요." ,
+130
+  "Tool.InseminationSyringe.ItemConsumed": "마지막 {{itemName}} 이 소비되었습니다.",
+131
+  "Tool.InseminationSyringe.EggAnimal": "{{animalName}} 은/는 인공수정할 수 없습니다. 그녀의 알을 부화기에 올리놓을 수 있습니다.",
+132
+  "Tool.InseminationSyringe.CantBeInseminated": "{{animalName}} 을/를 인공수정 시킬 수 없습니다.",
+133
+  "Tool.InseminationSyringe.Letter": "친애하는 @,^^    우리는 당신이 임신한 동물들을 돌볼 수 있는 건물을 농장에 지었다는 걸 알고있다모.^    우리 세계의 동물 불임 현상을 해결하려고 하던 중, 우리는 동물로부터 난 것으로 그들에게 새끼를 가지게 할 수 있는 물건을 만들어냈다모.^    불행히도, 우리 세계에서 이 물건은 소용이 없었다모.  그러나 당신의 세계에서라면 제대로 작동할거다모.^^^    우리는 이걸 당신에게 주고싶다모, 동물들의 수를 늘면, 보다 많은 동물들을 보내줬으면 한다모.^    외양간에는 크기에 따라 일정 수의 임신한 동물만을 둘 수 있다모, 하지만 닭장은 수용 가능한 동물의 숫자 안에서 임신 가능한 토끼의 숫자에 제한이 없다모.^    하지만, 태어날 새끼를 위한 공간을 확보하는 걸 잊지말아모^    보내준 물건을 유용히 사용해달라모!^    -이차원의 친구들",
+134
+  
+135
+  "Tool.FeedingBasket.Name": "먹이용 바구니",
+136
+  "Tool.FeedingBasket.Description": "이걸 사용해 당신의 동물들에게 간식을 주세요.",
+137
+  "Tool.FeedingBasket.Empty": "빈 바구니다.",
+138
+  "Tool.FeedingBasket.NotLikeTreat":  "이 동물은 {{itemName}}을/를 간식으로 먹지 않습니다.",
+139
+  "Tool.FeedingBasket.ItemConsumed": "마지막 남은 {{itemName}}을/를 주었습니다.",
+140
+  "Tool.FeedingBasket.WantsTreatInDays":  "{{animalName}}은/는 {{numberOfDays}}일 후 간식을 또 먹고 싶어할겁니다.",
+141
+  "Tool.FeedingBasket.WantsTreatTomorrow":  "{{animalName}}은/는 내일 또 간식을 먹고싶어 할겁니다.",
+142
+  "Tool.FeedingBasket.AlreadyAteTreatToday":  "{{animalName}}은/는 오늘 이미 간식을 먹었습니다.",
+143
+  "Tool.FeedingBasket.OnlyBabiesCanEatMilk": "새끼들만이 우유를 간식으로 먹을 것입니다.",
+144
+  "Tool.FeedingBasket.Letter": "친해하는 @,^우리 친구가 된 기념으로, 내가 이 먹이용 바구니를 특별히 널 위해 만들어 보았단다. 네가 이걸 써서 네 동물들에게 간식을 줄 수 있어. ^목장의 동물들은 간식을 매일 먹지 않겠지만, 네가 자세히 살핀다면, 그들이 언제 또 먹고싶어하는지 알 수 있을거야. ^동물들을 돌본다는건 결코 쉬운일이 아니야, 하지만 이걸로 간식을 줌으로 동물들의 마음을 얻을수 있단다. ^   -마니",
+145
+  "Tool.FeedingBasket.LetterRedelivery": "친애하는 @,^네가 먹이용 바구니를 잃어버렸다는 이야기를 들었단다. 네 도구를 좀 더 잘 간수하거라. ^이 바구니는 좋은 고객을 위해서 만들고 있던 것이었지만, 네가 좋은 친구이기에, 잃어버린 것을 대신할 것으로 보내줄게. ^이번에는 더 조심하렴. ^   -마니",
+146
+​
+147
+  "Tool.ParticipantRibbon.Name": "대회 참가용 리본",
+148
+  "Tool.ParticipantRibbon.Description": "이걸 사용해 다음 경연대회에 나갈 동물을 고릅니다.",
+149
+  "Tool.ParticipantRibbon.CantBeBaby": "동물이 아직 너무 어려서 경연 대회에 내보낼 수 없다.",
+150
+  "Tool.ParticipantRibbon.HasAlreadyParticipatedContest": "{{animalName}} 는/은 이미 동물 경연 대회에 나간 적이 있다.",
+151
+  "Tool.ParticipantRibbon.Letter": "친애하는 @,^우리는 내일 마을 광장에서 {{season}} 동물 경연 대회를 개최할 예정일세.^^만일 참가하길 원한다면, 부디 이 리본을 자네 동물들 중 하나에 매어 주게, 그러면 내가 내일 와서 행사장에 데려가겠네!^우리는 스타 듀 밸리에서 제일 사랑받은 동물을 심사할 거라네.^원한다면 자네의 애완동물을 참가시켜도 좋아, 그러나 농장의 동물들이 우승할 가능성이 더 높다네.^참가 혹은 구경을 원하면 오전 9시 전에 마을로 와주게나.^   -루이스 시장",
+152
+  
+153
+  //Menus
+154
+  "Menu.AnimalQueryMenu.PregnancyBuildingLimit": "그 건물은 더이상 임신중인 동물을 위한 공간이 없습니다.",
+155
+  "Menu.AnimalQueryMenu.DaysUntilBirth": "임신중입니다! 출산까지 {{numberOfDays}} 일이 남았습니다.",
+156
+  "Menu.AnimalQueryMenu.ReadyForBirth": "임신중입니다! 새끼를 낳을 준비가 되었습니다.",
+157
+  "Menu.AnimalQueryMenu.WantsTreat":  "지금 간식을 먹고싶어 할겁니다.",
+158
+  "Menu.AnimalQueryMenu.WantsTreatTomorrow":  "간식을 내일 먹고 싶어할 것입니다.",
+159
+  "Menu.AnimalQueryMenu.WantsTreatInDays":  "다시 간식을 먹고 싶어하기까지 {{numberOfDays}}일정도 걸릴겁니다.",
+160
+  "Menu.AnimalQueryMenu.ExchangeAnimalForMeat":  "고기로 변환합니다.",
+161
+  "Menu.AnimalQueryMenu.Winner": "{{contestDate}}의 우승 동물",
+162
+  "Menu.AnimalQueryMenu.ContestParticipant": "{{contestDate}}의 참가 동물",
+163
+  "Menu.AnimalQueryMenu.ChangeParticipant": "리본을 회수합니다."
+164
+  
+165
+}
